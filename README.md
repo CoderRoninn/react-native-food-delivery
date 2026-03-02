@@ -6,6 +6,7 @@ This project delivers a seamless food ordering experience, featuring dynamic dat
 
 
 
+![Kayt2026-03-02235150-ezgif com-optimize](https://github.com/user-attachments/assets/27f756c0-76e9-4969-91df-d274deed7879)
 
 
 ---
