@@ -2,7 +2,11 @@
 
 A modern, high-performance food delivery application clone, built with **React Native (Expo)** and powered by **Sanity.io** as a Headless CMS.
 
-This project delivers a seamless food ordering experience, featuring dynamic data fetching, real-time cart management, and a fully responsive design tailored for the Turkish market (TL currency support).
+This project delivers a seamless food ordering experience, featuring dynamic data fetching, real-time cart management, and a fully responsive design tailored for the Turkish market
+
+
+https://github.com/user-attachments/assets/b74d48a5-0cfc-4a9f-8d9c-567b80f16c4d
+
 
 ---
 
