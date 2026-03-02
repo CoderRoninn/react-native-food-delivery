@@ -74,20 +74,26 @@ npm start
 ## 📁 Project Structure
 
 ```text
-food_delivery_app/
-├── sanity.js                 # Sanity client & image-url config
-├── redux/                    # Redux store, actions, and reducers
-│   ├── actions/              # Cart actions (ADD_TO_CART, etc.)
-│   ├── reducers/             # Cart state logic
-│   └── selectors/            # Data getters (selectCartTotal, etc.)
-├── src/
-│   ├── api/                  # Sanity GROQ queries (index.js)
-│   ├── components/           # Reusable UI (DishRow, Categories, etc.)
-│   ├── const/                # Design tokens & Screen names
-│   ├── navigator/            # Navigation logic (Stack/Stack.js)
-│   ├── screens/              # Main screens (Home, Restaurant, Cart, Delivery)
-│   └── utils/                # Responsive scaling (responsive.js)
-└── assets/                   # Lottie files & local images
+food_delivery_full_stack_app/
+├── food_delivery_app/        # Frontend: React Native (Expo)
+│   ├── sanity.js             # Sanity client & image-url config
+│   ├── redux/                # Redux state management
+│   │   ├── actions/          # Cart actions
+│   │   ├── reducers/         # Cart state logic
+│   │   └── selectors/        # Data getters
+│   ├── src/
+│   │   ├── api/              # Sanity GROQ queries
+│   │   ├── components/       # Reusable UI components
+│   │   ├── navigator/        # Navigation logic
+│   │   ├── screens/          # App screens
+│   │   └── utils/            # Responsive scaling utilities
+│   └── assets/               # Lottie & static assets
+│
+└── food_delivery_sanity/     # Backend: Sanity.io Studio (CMS)
+    ├── schemaTypes/          # Data schemas (category, dish, featured, restaurant)
+    ├── static/               # Sanity studio static assets
+    ├── sanity.config.js      # Main project configuration
+    └── package.json          # Sanity dependencies & scripts
 ```
 
 ---
