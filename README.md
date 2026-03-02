@@ -48,7 +48,7 @@ This project delivers a seamless food ordering experience, featuring dynamic dat
 
 ### 1. Clone the repository
 ```bash
-git clone [YOUR_REPO_LINK]
+git clone [https://github.com/CoderRoninn/react-native-food-delivery]
 cd food_delivery_app
 ```
 
@@ -100,7 +100,6 @@ The app uses a custom scaling system located in `src/utils/responsive.js`. It ca
 ## 🤝 Contributing
 Bu proje bir eğitim/klon projesi olup, React Native ve Sanity.io entegrasyonunu en iyi pratiklerle göstermek amacıyla geliştirilmiştir. Geliştirme önerileri ve katkılara açıktır!
 
----
 
-## 📝 License
-Distributed under the MIT License. See `LICENSE` for more information.
+
+
