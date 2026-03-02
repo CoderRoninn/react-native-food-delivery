@@ -98,7 +98,7 @@ The app uses a custom scaling system located in `src/utils/responsive.js`. It ca
 ---
 
 ## 🤝 Contributing
-Bu proje bir eğitim/klon projesi olup, React Native ve Sanity.io entegrasyonunu en iyi pratiklerle göstermek amacıyla geliştirilmiştir. Geliştirme önerileri ve katkılara açıktır!
+This is an educational clone project developed to demonstrate best practices in React Native and Sanity.io integration. Suggestions, improvements, and contributions are welcome!
 
 
 
